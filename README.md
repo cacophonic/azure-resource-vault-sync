@@ -1,4 +1,4 @@
-# Azure Resource Key/ConnectionString to Key Vault Sync
+# Azure Resource to Key Vault Sync
 
 This PowerShell script extracts keys or connection strings from various Azure resources and writes them to Azure Key Vault secrets.
 
